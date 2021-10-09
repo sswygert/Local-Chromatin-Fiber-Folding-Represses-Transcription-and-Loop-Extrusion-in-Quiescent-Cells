@@ -1,0 +1,7 @@
+numba
+numpy
+scipy
+cooler
+pandas
+h5py
+statsmodels
